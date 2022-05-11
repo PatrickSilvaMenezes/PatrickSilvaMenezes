@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![PatrickSilvaMenezes Status](https://github-readme-stats.vercel.app/api?username=PatrickSilvaMenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSilvaMenezes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSilvaMenezes&langs_count=4&theme=dark)]
 <!--
 **PatrickSilvaMenezes/PatrickSilvaMenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
