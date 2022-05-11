@@ -4,10 +4,8 @@ Estudando atualmente IA, Compiladores e Otimização
 Desenvolvendo atualmente em Python
 
 
-[Instagram](https://www.instagram.com/patrick_smenezes/)
-
-
-[Linkedin](www.linkedin.com/in/patrick-menezes)
+[[Instagram]](https://www.instagram.com/patrick_smenezes/)
+[[Linkedin]](www.linkedin.com/in/patrick-menezes)
 ![PatrickSilvaMenezes Status](https://github-readme-stats.vercel.app/api?username=PatrickSilvaMenezes&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSilvaMenezes&langs_count=4&theme=dark)]
 <!--
