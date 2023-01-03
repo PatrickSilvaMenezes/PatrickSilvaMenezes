@@ -1,5 +1,5 @@
 # 👋 Hello! Welcome to my Github profile.
-## My name is Patrick and my nickname is Menezes!
+## My name is Patrick
 
 
 - 🔭 I’m currently working on [powerpc.pt](https://powerpc.pt/)
