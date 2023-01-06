@@ -34,7 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>    
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="40" height="40"  />
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
- <a href="https://www.freeiconspng.com/img/5576" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/phpmyadmin-icon-1.png" width="40" height="40" alt="Drawing Vector Phpmyadmin" /></a>
+ <a href="https://www.freeiconspng.com/img/5576" title="Image from freeiconspng.com"><img src="https://www.freeiconspng.com/uploads/phpmyadmin-icon-1.png" width="40" height="40" /></a>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original-wordmark.svg" width="40" height="40"/>
