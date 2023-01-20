@@ -34,6 +34,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>    
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" width="40" height="40"/>
+ <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40"/>
 <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LaTeX-Light.svg" width="40" height="40"/>
