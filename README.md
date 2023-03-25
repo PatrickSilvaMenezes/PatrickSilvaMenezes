@@ -7,16 +7,11 @@
 - ## I’m currently learning:
 
 <div class"allign-left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PHP-Light.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Light.svg"  width="40" height="40" />
-<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Prisma.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"  width="40" height="40" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" />
+
  
  </div class="allign-items:">       
                                                                                                                        
