@@ -2,7 +2,7 @@
 ## My name is Patrick
 
 
-- 🔭 I’m currently working on [powerpc.pt](https://powerpc.pt/)
+- 🔭 I’m currently interning on [Vilesoft](https://vilesoft.com.br/)
 ##
 - ## I’m currently learning:
 
@@ -10,7 +10,10 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />     
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"  width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"  width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg"  width="40" height="40"/>
+
+        
 
  
  </div class="allign-items:">       
@@ -28,6 +31,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>    
 <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
  <img src="https://mariadb.com/wp-content/uploads/2019/11/mariadb-logo-vertical_white.svg" width="40" height="40"/>
  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/DBeaver_logo.svg" width="40" height="40"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PhpMyAdmin_logo_2010_hidef.svg" width="40" height="40"/>
