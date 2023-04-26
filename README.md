@@ -2,7 +2,7 @@
 ## My name is Patrick
 
 
-- 🔭 Intern in software analisys and development at [Vilesoft](https://vilesoft.com.br/)
+- 🔭 Intern in software analysis and development at [Vilesoft](https://vilesoft.com.br/)
 ##
 - ## I’m currently learning:
 
