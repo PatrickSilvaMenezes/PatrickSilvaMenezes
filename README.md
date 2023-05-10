@@ -1,7 +1,8 @@
 ## Patrick Silva Menezes
 
 
-- 🔭 Intern in software analysis and development at [Vilesoft](https://vilesoft.com.br/)
+- 🔭 Intern in software analysis and development - Backend at [Vilesoft](https://vilesoft.com.br/)
+- Studying Clean Architecture, Node, DDD, TDD
 ##
 - ## I’m currently learning:
 
