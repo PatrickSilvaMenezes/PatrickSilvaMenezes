@@ -2,7 +2,7 @@
 
 
 - Intern in software analysis and development - Backend at [Vilesoft](https://vilesoft.com.br/)
-- Studying Clean Architecture, Node, DDD, TDD
+- Studying Clean Architecture, Node, DDD, TDD, Docker, GraphQL
 ##
 - ## I’m currently learning:
 
