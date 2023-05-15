@@ -2,7 +2,7 @@
 
 
 - Intern in software analysis and development - Backend at [Vilesoft](https://vilesoft.com.br/)
-- Studying Clean Architecture, Node, DDD, TDD, Docker, GraphQL
+- Studying Clean Architecture, Node, DDD, TDD, Docker, GraphQL and Google oauth2
 ##
 - ## I’m currently learning:
 
