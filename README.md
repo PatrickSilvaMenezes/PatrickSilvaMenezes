@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Clean Architecture, Node, DDD, TDD, Docker and GraphQL**
 
-- 📫 How to reach me: [![Gmail](https://img.shields.io/badge/Gmail-gray?logo=gmail)](mailto:patricksilvamenezes@gmail.com)
+- 📫 How to reach me: [![E-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patricksilvamenezes@gmail.com)
 
 
 
