@@ -1,19 +1,26 @@
-<h1 align="center">Hi 👋, I'm Patrick Silva Menezes</h1>
-<h3 align="center">- Intern in software analysis and development - Backend at Vilesoft</h3>
+<h1 align="center"> Hi!👋 Welcome to my Github Profile</h1>
 
+<h4 align="right">Connect with me:</h4>
+<p align="right">
+<a href="https://linkedin.com/in/patrick-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-menezes" height="20" width="30" /></a>
+<a href="https://stackoverflow.com/users/21965822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21965822" height="20" width="30" /></a>
+<a href="https://instagram.com/patrick_smenezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/patrick_smenezes" height="20" width="30"/></a>
+<a href="https://discord.gg/channels/@me" target="blank"><img align="center" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Discord.svg" alt="https://discord.com/channels/@me" height="20" width="30" /></a>
+</p>
 <br>
 
-- 🌱 I’m currently learning **Clean Architecture, Node, DDD, TDD, Docker and GraphQL**
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvamenezes&layout=compact&langs_count=8&theme=dark" alt="patricksilvamenezes" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/patrick-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-menezes" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/21965822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21965822" height="30" width="30" /></a>
-<a href="https://instagram.com/patrick_smenezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/patrick_smenezes" height="30" width="30"/></a>
-<a href="https://discord.gg/channels/@me" target="blank"><img align="center" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Discord.svg" alt="https://discord.com/channels/@me" height="30" width="30" /></a>
-</p>
+My name is Patrick and I'm a Computer Engineering student at CEFET
+
+📚 I'm interning in software analysis and backend development at Vilesoft 
+
+🚀 I'm currently: 
 
 
+Learning about **Clean Architecture, Node, DDD, TDD, Docker and GraphQL**
+<br>
+<br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> </a>
@@ -49,23 +56,12 @@
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Notion.svg">&nbsp;&nbsp;
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/trello.svg">&nbsp;&nbsp;
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/azure-1.svg">&nbsp;&nbsp;
-  
-  
- 
 </p>
-
-
 
 <div style="display: flex; justify-content: center;">
   <div>
     <p  align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricksilvamenezes&theme=dark" alt="patricksilvamenezes" width="50%" /></p>
   </div>
 </div>
-<div style="display: flex;">
-  <div style="flex: 1;" align= "center">
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvamenezes&layout=compact&langs_count=8&theme=dark" alt="patricksilvamenezes" /></p>
-  </div>
-  <div style="flex: 1;">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=patricksilvamenezes&show_icons=true&locale=en&theme=dark" alt="patricksilvamenezes" /></p>
-  </div>
+ 
 </div>
