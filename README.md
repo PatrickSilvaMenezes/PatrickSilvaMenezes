@@ -21,17 +21,21 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <img height="40" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Csharp.svg">&nbsp;&nbsp;
+<img height="40" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Csharp.svg">&nbsp;&nbsp;
+<img height="40" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Dart.svg">&nbsp;&nbsp;
+<img height="40" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Flutter.svg">&nbsp;&nbsp;
  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Docker.webp" alt="docker" height="40"/> </a> 
+    <img height="40" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Kubernetes.svg">&nbsp;&nbsp;
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img  src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Node.js.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Express.svg" alt="express" width="40" height="40"/> </a>
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> 
+  <img height="40" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png">&nbsp;&nbsp;
  <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/MariaDB.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/MySQL.svg" alt="mysql" width="40" height="40"/> </a> 
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"  alt="postgresql" width="40" height="40"/> </a> 
  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"  alt="redis" width="40" height="40"/> </a> 
