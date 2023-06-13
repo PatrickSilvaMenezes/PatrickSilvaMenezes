@@ -58,11 +58,11 @@
 
 <div style="display: flex; justify-content: center;">
   <div>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricksilvamenezes&theme=dark" alt="patricksilvamenezes" width="50%" /></p>
+    <p  align= "center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricksilvamenezes&theme=dark" alt="patricksilvamenezes" width="50%" /></p>
   </div>
 </div>
 <div style="display: flex;">
-  <div style="flex: 1;">
+  <div style="flex: 1;" align= "center">
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvamenezes&layout=compact&langs_count=8&theme=dark" alt="patricksilvamenezes" /></p>
   </div>
   <div style="flex: 1;">
