@@ -51,7 +51,11 @@ Learning about **Clean Architecture, Node, DDD, TDD, Docker and GraphQL**
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/prisma-4.svg">&nbsp;&nbsp;
  <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Unity.svg">&nbsp;&nbsp;
  <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Latex.svg">&nbsp;&nbsp;
-   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/VSCode.svg">&nbsp;&nbsp;  
+ <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Arduino.svg">&nbsp;&nbsp;
+ <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Matlab.png">&nbsp;&nbsp;
+ <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Scilab.png">&nbsp;&nbsp;
+  <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Prolog.svg">&nbsp;&nbsp;
+  <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/VSCode.svg">&nbsp;&nbsp;  
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/VisualStudio2022.svg">&nbsp;&nbsp;
   <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Notion.svg">&nbsp;&nbsp;
   <img height="30" src="https://cdn.worldvectorlogo.com/logos/trello.svg">&nbsp;&nbsp;
