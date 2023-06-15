@@ -4,7 +4,7 @@
 <p align="right">
 <a href="https://linkedin.com/in/patrick-menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/patrick-menezes" height="20" width="30" /></a>
 <a href="https://stackoverflow.com/users/21965822" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21965822" height="20" width="30" /></a>
-<a href="https://instagram.com/patrick_smenezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/patrick_smenezes" height="20" width="30"/></a>
+<a href="https://instagram.com/patricks.menezes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/patrick_smenezes" height="20" width="30"/></a>
 <a href="https://discord.gg/channels/@me" target="blank"><img align="center" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Discord.svg" alt="https://discord.com/channels/@me" height="20" width="30" /></a>
 </p>
 <br>
