@@ -18,7 +18,7 @@ My name is Patrick and I'm a Computer Engineering student at CEFET
 🚀 I'm currently: 
 
 
-Learning about **Clean Architecture, Node, DDD, TDD, Docker and GraphQL**
+Learning about **Clean Architecture, Node, DDD, TDD, Docker, Nest and GraphQL**
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
