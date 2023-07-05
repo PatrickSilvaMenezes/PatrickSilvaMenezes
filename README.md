@@ -41,6 +41,7 @@ Learning about **Clean Architecture, Node, DDD, TDD, Docker, Nest and GraphQL**
     <img height="30" src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Kubernetes.svg">&nbsp;&nbsp;
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img  src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Node.js.svg" alt="nodejs" width="30" height="30"/> </a> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="30" height="30"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="30" height="30">
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/lucasmsoares96/lucasmsoares96/raw/main/src/Express.svg" alt="express" width="30" height="30"/> </a>
  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="30" height="30"/> </a> 
   <img height="30" src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png">&nbsp;&nbsp;
