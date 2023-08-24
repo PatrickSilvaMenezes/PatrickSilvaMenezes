@@ -13,12 +13,12 @@
 
 My name is Patrick and I'm a Computer Engineering student at CEFET
 
-📚 I'm interning in software analysis and backend development at Vilesoft 
+📚 I'm interning in Backend Software Engineering at Vilesoft 
 
 🚀 I'm currently: 
 
 
-Learning about **Clean Architecture, DDD, TDD, Docker, C# ASP.NET Core **
+Learning about <b>Clean Architecture, DDD, TDD, Docker, C# ASP.NET Core<b>
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
