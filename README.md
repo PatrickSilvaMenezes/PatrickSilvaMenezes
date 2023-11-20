@@ -13,8 +13,6 @@
 
 My name is Patrick and I'm a Computer Engineering student at CEFET
 
-📚 I'm interning in Backend Software Engineering at Vilesoft 
-
 🚀 I'm currently: 
 
 
