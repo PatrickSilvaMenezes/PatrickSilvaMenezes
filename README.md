@@ -15,8 +15,7 @@ My name is Patrick and I'm a Computer Engineering student at CEFET
 
 🚀 I'm currently: 
 
-
-Learning about <b>Clean Architecture, DDD, TDD, Docker, C# ASP.NET Core<b>
+Interning in Software Development and Embedded Systems
 <br>
 <br>
 <h3 align="left">Languages and Tools:</h3>
